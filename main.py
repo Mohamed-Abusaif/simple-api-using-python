@@ -27,4 +27,4 @@ def create_user():
 if __name__ == "__main__":
     app.run(debug=True)
 
-#You Can Test This API USING POSTMAN Software
+#You Can Test These API's USING POSTMAN Software
